@@ -1,0 +1,14 @@
+buatkaan issue.md berisi planning untuk membuat ini:
+
+buat di bun.
+
+menggunakan:
+1. ElysiaJS
+2. Drizzle ORM
+3. MySQL
+
+jangan terlalu low level atau detail.
+
+cukup instrusikan secara high level.
+
+nanti document planningnya akan digunakan oleh programer junior atau  model yang lebih murah  untuk diimplementasikan
