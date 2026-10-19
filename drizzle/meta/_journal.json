@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1792387580760,
+      "tag": "0000_vengeful_shadow_king",
+      "breakpoints": true
+    }
+  ]
+}
